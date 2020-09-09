@@ -1,4 +1,4 @@
 #### 0x03. Git Proyect
 ---
 #### Obectives:
-- Honestly I'm tring to catch up on the idea
+- Change has been made update LOCALY please!
