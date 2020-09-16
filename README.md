@@ -21,9 +21,7 @@
 - How to push code  
 
 #### Content of the proyect:
-- 0x00-vagrant
-- 0x01-emacs
-- 0x02-vi
-- 0x03-git
-
-Jorge Rodriguez
+0x00-vagrant
+0x01-emacs
+0x02-vi
+0x03-git
